@@ -1,0 +1,3 @@
+#!/bin/bash
+# This script stops the 7-highlander process using pkill.
+pkill -f "7-highlander"
