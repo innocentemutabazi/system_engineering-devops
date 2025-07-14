@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # This script displays "To infinity and beyond" indefinitely and handles SIGTERM.
 
 trap 'echo "I am invincible!!!"' SIGTERM

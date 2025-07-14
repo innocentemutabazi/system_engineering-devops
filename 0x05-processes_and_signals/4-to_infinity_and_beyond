@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # This script displays "To infinity and beyond" indefinitely with a 2-second sleep.
 while true; do
     echo "To infinity and beyond"
