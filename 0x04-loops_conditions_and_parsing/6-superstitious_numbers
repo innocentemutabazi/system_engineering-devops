@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# This script displays numbers from 1 to 20 with superstitious messages using a case statement
 count=1
 while [ $count -le 20 ]; do
     case $count in
